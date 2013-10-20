@@ -4,8 +4,8 @@
     <description>
         Trinidad's #1 Digital Out Of Home network!
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+    <author email="omerr@clickmediatt.com" href="http://www.clickmediatt.com">
+        Click Media
     </author>
     <feature name="http://api.phonegap.com/1.0/device" />
     <preference name="permissions" value="none" />
